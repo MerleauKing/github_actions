@@ -1,5 +1,5 @@
 name: Test Shells commands
-on:[push]
+on: [push]
 jobs:
   run-shell-command:
     runs-on: ubuntu-latest
